@@ -1,6 +1,6 @@
-streamlit==1.35.0
-tensorflow==2.15.0
-Pillow==10.2.0
-numpy==1.23.5
-matplotlib==3.7.1
-reportlab==4.0.4
+streamlit
+tensorflow==2.9.3
+gdown
+numpy
+Pillow
+fpdf
